@@ -1,8 +1,14 @@
+You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
+
+[Know about the life of this world](00-Life-of-this-world/Life of this world.md)
+
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
 Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
 
 Vist the master [liquid](liquid/liquid.md).
+
+Drink some [bear](bear/bear.md)
 
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
@@ -182,6 +188,8 @@ Startled, you immediately whirl around to see who (or what) touched you...but th
 
 You hear a strange noise then turn and see a large, wooden door.
 
+You turn for a third time and see a small, metal door.
+
 You knock, hear nothing and decide to [enter](./strange-room/room.md).
 
 Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air
@@ -233,6 +241,8 @@ You pause for a second, awaiting a spectacular sight.
 Sheepishly you look down on the crappy wand in your hand.
 
 You must be doing something wrong. You drink a beer and think about it, then Ah-ha!
+
+so many [beer](drink-beer/drink-beer.md) options..
 
 You notice your pants are now glowing, so you must have been holding the wand upside down.
 
@@ -693,14 +703,15 @@ You made it through the day and are starting to get sleepy... [Time to fall asle
 You wake up in front of a computer screen. You begin reading
 the text of a markdown file called marshmallow.md. As you read
 you realize that the story is about you!
+[remember this story!](this-story-is-about-you/this-story-is-about-you.md)
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
 
 [Call a random number](call-a-random-number/answer.md)
 
-<<<<<<< HEAD
+
 You must be lonely. [Want a friend?](robofriend/AIRobot.md)
-=======
+
 When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
@@ -811,3 +822,11 @@ Let it go, let it gooo...
 Do you want to build a [snowman?] (snowman/snowman.md)
 
 I think I'll try defying gravity. 
+
+Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indonesia)
+
+[Paint It Black](paint-it-black/PaintItBlack.md)
+
+[Try to solve Rubik's Cube](rubik-cube/rubik-cube.md)
+
+[To Infinity and Beyond](math/math.md)
